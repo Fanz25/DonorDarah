@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/taufa/AndroidStudioProjects/New folder (2)/DonorDarah/app/src/main/res/layout/activity_detail.xml" value="0.22" />
+        <entry key="..\:/Users/taufa/AndroidStudioProjects/New folder (2)/DonorDarah/app/src/main/res/layout/activity_edit.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/taufa/AndroidStudioProjects/New folder (2)/DonorDarah/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/taufa/AndroidStudioProjects/New folder (2)/DonorDarah/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/taufa/AndroidStudioProjects/New folder (2)/DonorDarah/app/src/main/res/layout/activity_maps.xml" value="0.1" />
+        <entry key="..\:/Users/taufa/AndroidStudioProjects/New folder (2)/DonorDarah/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/taufa/AndroidStudioProjects/New folder (2)/DonorDarah/app/src/main/res/layout/fragment_beranda.xml" value="0.22" />
+        <entry key="..\:/Users/taufa/AndroidStudioProjects/New folder (2)/DonorDarah/app/src/main/res/layout/fragment_berita.xml" value="0.1" />
+        <entry key="..\:/Users/taufa/AndroidStudioProjects/New folder (2)/DonorDarah/app/src/main/res/layout/fragment_cari_darah.xml" value="0.18885869565217392" />
+        <entry key="..\:/Users/taufa/AndroidStudioProjects/New folder (2)/DonorDarah/app/src/main/res/layout/fragment_cari_pendonor.xml" value="0.25" />
+        <entry key="..\:/Users/taufa/AndroidStudioProjects/New folder (2)/DonorDarah/app/src/main/res/layout/fragment_profil.xml" value="0.33" />
+        <entry key="..\:/Users/taufa/AndroidStudioProjects/New folder (2)/DonorDarah/app/src/main/res/layout/fragment_request.xml" value="0.22" />
+        <entry key="..\:/Users/taufa/AndroidStudioProjects/New folder (2)/DonorDarah/app/src/main/res/layout/request_list_item.xml" value="0.25" />
+        <entry key="..\:/Users/taufa/AndroidStudioProjects/New folder (2)/DonorDarah/app/src/main/res/layout/search_list_item.xml" value="0.22" />
+        <entry key="..\:/Users/taufa/AndroidStudioProjects/New folder (2)/DonorDarah/app/src/main/res/menu/bottom_view_menu.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

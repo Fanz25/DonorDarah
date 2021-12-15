@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913334551047",
+    "project_id": "donor-darah-2afb4",
+    "storage_bucket": "donor-darah-2afb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913334551047:android:8b85d33fb60eba7c39e0a2",
+        "android_client_info": {
+          "package_name": "com.aplikasi.donordarah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913334551047-bhecprdf0e1malbvdaqiteioi4itqee9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf5P6Dru6flkaSP6sRLA9R0LIGQT9xBrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913334551047-bhecprdf0e1malbvdaqiteioi4itqee9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Donor Darah</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="kota">
+        <item>Cikalongkulon</item>
+        <item>Sukaresmi</item>
+        <item>Ciaranjang</item>
+        <item>Cipanas</item>
+        <item>Ciherang</item>
+        <item>Mande</item>
+        <item>Cianjur Kota</item>
+        <item>Jangari</item>
+
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
